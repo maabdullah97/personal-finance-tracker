@@ -3,6 +3,16 @@
 
 A personal finance management application built using Python, Streamlit, and SQLite. The application allows users to record income and expenses, organise transactions into categories, and monitor their financial activity through an interactive web interface.
 
+## Application Screenshots
+
+### Main Dashboard
+
+![Personal Finance Tracker Dashboard](screenshots/dashboard.png)
+
+### Financial Analytics
+
+![Expenses by Category and Monthly Income vs Expenses](screenshots/analytics.png)
+
 ## Features
 
 - Add income and expense transactions
